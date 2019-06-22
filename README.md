@@ -10,4 +10,4 @@ Learn how to broadcast Kafka streams to clients connected by WebSocket.
 
 ## Folder 
 - leo-kafka
-- leo-web
+- leo-api
