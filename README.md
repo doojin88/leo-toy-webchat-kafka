@@ -1,7 +1,7 @@
 # leo-toy-webchat-kafka
 
 ## Purpose
-Learn how to broadcast kafka streams to clients connected by websocket.
+Learn how to broadcast Kafka streams to clients connected by WebSocket.
 
 ## Related programs
 - spring boot
